@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Contour Transformation Machine Learning Art Project
+date: 2019-07-19
 description: A final Machine Learning Art Project
 excerpt: Explore Pix2pix, Holistically-Nested Edge(HED) machine learning model
-categories: post
 project: true
 ---
 
