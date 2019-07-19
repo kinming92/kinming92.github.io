@@ -1,6 +1,7 @@
 ---
 Title: Contour Transformation Machine Learning Art Project
 description: A final Machine Learning Art Project
+categories: post
 ---
 
 #Contour Transformation Art Project
