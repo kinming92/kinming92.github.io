@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Double Security
-date: 2019-07-19
-description: A team project that explores RIFD and face tracking technogies.
-excerpt: Worked On the Door Frame Using Solidwork
+date: 2018-05-31
+excerpt: A team project that explores RIFD and face tracking technogies.
 project: true
 ---
 

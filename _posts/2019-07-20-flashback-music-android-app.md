@@ -1,8 +1,10 @@
 ---
 layout: post
 title: FlashBack Music Android App
-date: 2019-07-19
-description: Android App that plays popular music that's being played around your location.
-excerpt: Mainly worked on the UI aspect of the app
+date: 2018-03-17
+excerpt: Android App that plays popular music that's being played around your location.
 project: true
 ---
+
+# Summary
+I Mainly worked on the UI of the android app.
