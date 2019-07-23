@@ -7,4 +7,4 @@ project: true
 ---
 
 # Summary
-I Mainly worked on the UI of the android app.
+I mainly worked on the UI of the android app.

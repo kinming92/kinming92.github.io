@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 bit instruction architeture set
-date: 2019-07-19
+date: 2019-03-29
 excerpt: Implement the 9 bit instruction architeture set using accumulator method
 project: true
 ---
