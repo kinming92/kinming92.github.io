@@ -18,7 +18,6 @@ I have wokred on retrieving the user’s data from database using Asynchronous J
 - JavaScript
 - AJAX
 - GIT
-- Firebase(deployment)
+- Heroku(deployment)
 
-# Link
-()[]
+### (Website)[https://basic-movie-crud-app.herokuapp.com/]
