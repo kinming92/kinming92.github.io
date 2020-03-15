@@ -2,7 +2,6 @@
 layout: post
 title: MISP Processor with Coprocessor 1 project
 date: 2018-12-14
-excerpt: Implement the MIPS processor and the Coprocessor 1(Floating Point Unit)
 project: true
 categories: jekyll update
 excerpt_separator: <!--more-->

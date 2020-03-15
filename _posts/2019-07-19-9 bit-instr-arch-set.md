@@ -19,7 +19,7 @@ SystemVerilog Modules are implemented based the diagram above.
 Each module is unit tested individually to ensure that we get the correct output.
 Quartus is used to generate the schematic
 
-![DataPath](/assets/9bitInstructions/top-schematic.png)
+![DataPath](/assets/9bitInstructions/top-schematic.PNG)
 
 ### Technologies and Tools Used
 - C++

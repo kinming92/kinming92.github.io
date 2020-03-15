@@ -2,7 +2,6 @@
 layout: post
 title: Basic Movie CRUD Website
 date: 2019-08-31
-excerpt: 
 project: true
 categories: jekyll update
 excerpt_separator: <!--more-->
