@@ -31,3 +31,5 @@ Quartus is used to generate the schematic
 ### Github Repo
 - [C++ implementation for inverse and division](https://github.com/kinming92/divvy_assembler)
 - [Final Code](https://github.com/kinming92/Divvy_FinalProject)
+
+<hr>

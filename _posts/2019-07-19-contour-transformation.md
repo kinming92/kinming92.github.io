@@ -22,3 +22,5 @@ Explore Pix2pix, Holistically-Nested Edge(HED) machine learning model
 
 
 [final-report]: /assets/Machine-Learning-Final-Report.pdf
+
+<hr>
