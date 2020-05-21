@@ -7,7 +7,6 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-### Summary
 Simple Game Development using Phaser - HTML5 game engine framework
 The goal of my work was to continue to developer a simple game for kids specifically aim for
 kids with Autism spectrum disorder (ASD). 

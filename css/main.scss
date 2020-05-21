@@ -1,0 +1,11 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+// Import partials.
+@import
+  "base",
+  "layout",
+  "syntax-highlighting"
+;
+
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css);

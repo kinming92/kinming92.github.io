@@ -8,7 +8,6 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-### Summary
 Explore Pix2pix, Holistically-Nested Edge(HED) machine learning model
 ### Technologies and Tools Used
 - Python3
@@ -22,5 +21,3 @@ Explore Pix2pix, Holistically-Nested Edge(HED) machine learning model
 
 
 [final-report]: /assets/Machine-Learning-Final-Report.pdf
-
-<hr>

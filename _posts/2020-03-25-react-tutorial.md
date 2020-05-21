@@ -7,14 +7,10 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-
-### Summary
 Build an order burger app using React
 
 ### Technologies and Tools Used
 - React
 
 [Repo](https://github.com/kinming92/burger-app-tutorial)
-
-<hr>
 

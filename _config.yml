@@ -18,23 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
-title: Welcome
+title: Kin Ming Loh
 email: kmloh@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
- I am interested in technology in general. I like to explore and learn how software and hardware integrate together.
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 github_username:  kinming92
 linkedin_username: kinmingloh
 
 # Build settings
-theme: minima
+sass:
+  sass_dir: _sass
+  style: compressed
+include: ['_pages']
 plugins:
   - jekyll-feed
 
-# Posts settings
-comments: false
+# Post Setting
 show_excerpts: true
 
 # Exclude from processing.

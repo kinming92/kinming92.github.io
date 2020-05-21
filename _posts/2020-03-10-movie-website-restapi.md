@@ -8,8 +8,6 @@ excerpt_separator: <!--more-->
 ---
 
 
-### Summary
-
 A nodeJS RESTful app to serve as endpoint for the simple movie collection website.
 ### Technologies and Tools Used
 - NodeJs
@@ -22,5 +20,3 @@ A nodeJS RESTful app to serve as endpoint for the simple movie collection websit
 
 <!-- https://movie-website-rest-api.herokuapp.com/ -->
 [Repo](https://github.com/kinming92/movie-website-rest-api)
-
-<hr>
