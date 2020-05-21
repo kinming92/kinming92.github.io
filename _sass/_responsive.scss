@@ -1,0 +1,39 @@
+@media screen and (min-width: 768px){
+    p {
+        img {
+          width: 45vw;
+          height: 50vh;
+          margin: 2rem auto 0 auto;
+          border: 5px solid #ccc;
+        }
+      }
+}
+
+@media screen and (min-width: 1024px){
+    .social-icons {
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        bottom: 1rem;
+        left: 1rem;
+    }
+    
+    footer {
+        display: flex;
+        position: fixed;
+        bottom: 0.1rem;
+        right: 1rem;
+        text-align: right;
+        margin: 1rem;
+        transform:
+          rotate(90deg)
+          translate(-2rem, -2rem);
+      
+        p {
+          font-size: 1rem;
+          flex-direction: column;
+        }
+      }
+}
+
+
