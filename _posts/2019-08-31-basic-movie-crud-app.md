@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Movie Collection Website
+title: Movie Collection Website Frontend
 date: 2019-08-31
 project: true
 categories: jekyll update
@@ -16,6 +16,5 @@ I have wokred on retrieving the user’s data from database using Asynchronous J
 - JavaScript
 - AJAX
 - GIT
-- Heroku(deployment)
  
-[Website](https://basic-movie-crud-app.herokuapp.com/)
+[Website](https://movie-collection-frontend.web.app/)
