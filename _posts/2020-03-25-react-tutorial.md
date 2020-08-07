@@ -7,7 +7,7 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-I built an Ecomence ordering app with React.js.
+I built a food ordering app with React.js.
 
 ### Technologies and Tools Used
 - React.js
