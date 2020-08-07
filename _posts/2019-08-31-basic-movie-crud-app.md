@@ -17,4 +17,4 @@ I have wokred on retrieving the user’s data from database using Asynchronous J
 - AJAX
 - GIT
  
-[Website](https://movie-collection-frontend.web.app/)
+[Link](https://movie-collection-frontend.web.app/)

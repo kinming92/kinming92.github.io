@@ -7,8 +7,8 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-Game Development using Phaser - HTML5 game engine framework
+Game Development using Phaser - HTML5 game engine framework.
 The goal of my work was to develop a mini web game that aims for kids with Autism spectrum disorder (ASD). 
 
 [Original Repo](https://github.com/interaction-lab/games-old/tree/Kin)
-[Repost Website](https://game-old-phaser.firebaseapp.com/)
+[Link](https://game-old-phaser.firebaseapp.com/)

@@ -14,6 +14,5 @@ AutoCAD SolidWork.
 ### Assembly Diagram
 ![Solidwork Assembly](/assets/doubleSecurity/prototype-assembly.png)
 
-### Documentation
 [Final Report](/assets/doubleSecurity/FinalReport.pdf)
 

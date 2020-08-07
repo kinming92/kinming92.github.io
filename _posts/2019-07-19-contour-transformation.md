@@ -17,7 +17,7 @@ I explored Pix2pix, Holistically-Nested Edge(HED) machine learning model to trai
 - Holistically-Nested Edge(HED) model
 
 ### Documentation
-[Github Repo](https://github.com/ucsd-ml-arts/ml-art-final2-amcda-anymlcandoart)
+[Repo](https://github.com/ucsd-ml-arts/ml-art-final2-amcda-anymlcandoart)
 [Full Project Report][final-report]
 
 

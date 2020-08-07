@@ -14,7 +14,7 @@ We desgined a new set of assembly set using the accumulator method that handles 
 We designed the datapath and the control logic of the hardware System Verilog module.
 SystemVerilog Modules were implemented based on the diagram above.
 Each module was unit-tested individually to ensure that we got the correct output.
-Quartus was used to generate the schematic
+Quartus was used to generate the schematic.
 
 ![DataPath](/assets/9bitInstructions/top-schematic.PNG)
 
@@ -25,6 +25,6 @@ Quartus was used to generate the schematic
 - Quartus Prime Lite
 - ModelSim
     
-### Github Repo
+### Repo
 - [C++ implementation for inverse and division](https://github.com/kinming92/divvy_assembler)
 - [Final Code](https://github.com/kinming92/Divvy_FinalProject)
