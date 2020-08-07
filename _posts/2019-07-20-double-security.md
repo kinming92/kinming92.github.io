@@ -11,9 +11,6 @@ Our goal of this project was to create a prototype that uses RFID technology to 
 Face tracking was experimented using matlab libraries. I worked on the door frame, latch, and hinge using the 
 AutoCAD SolidWork.
 
-### Prototype
-![Door and Lacth](/assets/doubleSecurity/doorFrame.png)
-
 ### Assembly Diagram
 ![Solidwork Assembly](/assets/doubleSecurity/prototype-assembly.png)
 

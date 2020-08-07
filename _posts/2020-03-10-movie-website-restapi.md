@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-A node.js RESTful app to serve as endpoint for the simple movie collection website.
+A node.js RESTful app is to serve as endpoint for the movie collection website.
 ### Technologies and Tools Used
 - Node.js
 - Express.js

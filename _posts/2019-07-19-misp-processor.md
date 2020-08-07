@@ -7,8 +7,6 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-- Assisted in building a single clock cycle MIPS processor and Coprocessor 1, Floating Point Unit
-- Tested the output correctness with SystemVerilog testbench using Vivado 
+I assisted in building a single clock cycle MIPS processor and Coprocessor 1, Floating Point Unit. I tested the output correctness with SystemVerilog testbench using Vivado. 
 
-### Link
 [Github Repo](https://github.com/kinming92/MISP-FPU-Processor)

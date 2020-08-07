@@ -8,7 +8,8 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-Explore Pix2pix, Holistically-Nested Edge(HED) machine learning model
+
+I explored Pix2pix, Holistically-Nested Edge(HED) machine learning model to train the cat and tiger's images.
 ### Technologies and Tools Used
 - Python3
 - Jupter Notebook

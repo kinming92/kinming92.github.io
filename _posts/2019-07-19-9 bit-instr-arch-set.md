@@ -6,16 +6,15 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-The goal of this project is to build a hardware stimulation to solve simple Math problem which 
-includes multiplication and long division. 
-We desgined a new set of assembly set using the accumulator method that handle the 9 bit instruction.
+The goal of this project is to build a hardware stimulation to solve simple Math problems which includes multiplication and long division. 
+We desgined a new set of assembly set using the accumulator method that handles the 9 bit instruction.
 
 <!-- ![Assembly Set](/assets/9bitInstructions/assemly-operation.png) -->
 
-We designed the datapath and the control logic of the hardware System Verilog module in a diagram.
-SystemVerilog Modules are implemented based the diagram above.
-Each module is unit tested individually to ensure that we get the correct output.
-Quartus is used to generate the schematic
+We designed the datapath and the control logic of the hardware System Verilog module.
+SystemVerilog Modules were implemented based on the diagram above.
+Each module was unit-tested individually to ensure that we got the correct output.
+Quartus was used to generate the schematic
 
 ![DataPath](/assets/9bitInstructions/top-schematic.PNG)
 

@@ -7,5 +7,5 @@ excerpt_separator: <!--more-->
 ---
 
 A LED Heart Circuit.
-I learned how to solder electronic components into a printed circuit board, program a microchip ATtiny44/45/84/85 using Arduino, implement function in arduino to do LED ligthing pattern.
+I learned to solder electronic components into a printed circuit board, programmed a microchip ATtiny44/45/84/85 using Arduino, and implemented function in arduino to generate some LED ligthing patterns.
 

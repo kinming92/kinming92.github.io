@@ -7,10 +7,11 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-Build an order burger app using React
+I built an Ecomence ordering app with React.js.
 
 ### Technologies and Tools Used
-- React
+- React.js
+- Redux.js
 
 [Repo](https://github.com/kinming92/burger-app-tutorial)
 
