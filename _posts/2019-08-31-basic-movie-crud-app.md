@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 A simple website that allows user to create, read update and delete movie listing.
-I have wokred on retrieving the user’s data from database using Asynchronous JavaScript and XML (AJAX). I implemented a simple responsive page for user login, signup and information update.
+I have worked on retrieving the user’s data from database using Asynchronous JavaScript and XML (AJAX). I implemented a simple responsive page for user login, signup and information update.
 
 ### Technologies and Tool Used
 - HTML5
