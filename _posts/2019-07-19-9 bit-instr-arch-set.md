@@ -6,8 +6,8 @@ categories: jekyll update
 excerpt_separator: <!--more-->
 ---
 
-The goal of this project is to build a hardware stimulation to solve simple Math problems which includes multiplication and long division. 
-We desgined a new set of assembly set using the accumulator method that handles the 9 bit instruction.
+The goal of this project was to build a hardware stimulation to solve simple Math problems which includes multiplication and long division. 
+We designed a new set of assembly set using the accumulator method that handles the 9 bit instruction.
 
 <!-- ![Assembly Set](/assets/9bitInstructions/assemly-operation.png) -->
 
