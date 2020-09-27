@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Burger App Reactjs Tutorial
+title: Burger Ordering Reactjs Tutorial
 date: 2020-03-25
 project: true
 categories: jekyll update
