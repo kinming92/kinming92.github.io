@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 
 I reworked my personal website with React.js.
 
-### Technologies and Tools Used
+Technologies and Tools Used
 - React.js
 - Redux.js
 

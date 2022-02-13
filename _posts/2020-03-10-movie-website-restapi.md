@@ -9,7 +9,8 @@ excerpt_separator: <!--more-->
 
 
 A node.js RESTful app is to serve as endpoint for the movie collection website.
-### Technologies and Tools Used
+
+Technologies and Tools Used
 - Node.js
 - Express.js
 - MongoDB

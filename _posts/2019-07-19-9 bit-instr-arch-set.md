@@ -18,13 +18,13 @@ Quartus was used to generate the schematic.
 
 ![DataPath](/assets/9bitInstructions/top-schematic.PNG)
 
-### Technologies and Tools Used
+Technologies and Tools Used
 - C++
 - GDB
 - SystemVerilog
 - Quartus Prime Lite
 - ModelSim
     
-### Repo
+Repo
 - [C++ implementation for inverse and division](https://github.com/kinming92/divvy_assembler)
 - [Final Code](https://github.com/kinming92/Divvy_FinalProject)

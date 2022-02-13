@@ -10,13 +10,15 @@ excerpt_separator: <!--more-->
 
 
 I explored the Pix2pix and the Holistically-Nested Edge(HED) machine learning model to train the cat and tiger's images.
-### Technologies and Tools Used
+
+Technologies and Tools Used
 - Python3
 - Jupter Notebook
 - Pix2pix model
 - Holistically-Nested Edge(HED) model
 
-### Documentation
+Documentation
+
 [Repo](https://github.com/ucsd-ml-arts/ml-art-final2-amcda-anymlcandoart)
 [Full Project Report][final-report]
 
