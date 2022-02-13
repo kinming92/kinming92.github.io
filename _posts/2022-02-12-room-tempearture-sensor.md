@@ -15,7 +15,7 @@ Part 1 - Sensors
 Breadboard Schematic Diagram shown below are set up to flash the ESP-01S module. Arduino IDE is used to upload the sketch and flash the ESP-01S module.
 
 ![Breadboard](/assets/IoTRoomTemperature/flashing-esp01s_bb.png)
-![Schematic](/assets/IoTRoomTemperature/flashing-esp01s_schem.PNG)
+![Schematic](/assets/IoTRoomTemperature/flashing-esp01s_schem.png)
 
 Technologies and Tools Used
 - Arduino IDE
@@ -23,8 +23,16 @@ Technologies and Tools Used
 - ESP8266(ESPF-DEVKIT V4)
 - DHT 11
 
-Part 2 - Django Server and Database
-<!-- - [C++ implementation for inverse and division](https://github.com/kinming92/divvy_assembler) -->
-<!-- - [Final Code](https://github.com/kinming92/Divvy_FinalProject) -->
+Part 2 - Django REST API and Database
+
+The REST API is designed for the ESP-01S module clients to send request to the server. The hosted server will be responsible to take the data from http request and store the data into the database.
+
+Database Design from Draw.io
+![database-design](/assets/IoTRoomTemperature/web-sensor-api-database-design.drawio.png)
+
+
+Technologies and Tools Used
+- Django Rest Framework
+- SQLite3
 
 Part 3 - Analytic Report
