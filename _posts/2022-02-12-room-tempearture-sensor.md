@@ -37,10 +37,7 @@ Technologies and Tools Used
 
 Part 3 - Guide to Deloy the Django + Gunicorn + Nginx in Ubuntu Server
 
-Install Ubuntu Server and Enable SSH 
-[](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#4-boot-ubuntu-server)
-
-Setup Django + Gunicorn + Nginx in Ubuntu Server
-[](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04)
+[Install Ubuntu Server and Enable SSH ](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#4-boot-ubuntu-server)
+[Setup Django + Gunicorn + Nginx in Ubuntu Server](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04)
 
 Part 4 - Analytic Report
